@@ -8,17 +8,13 @@ header:
   actions:
     - label: "Button"
       url: "/sample/"
-excerpt: " "
+excerpt: ""
 intro:
-  - Name: 김형준
-  - Department: Department of Robotices
   - excerpt: ""
 ---
-
 {% include feature_row id="intro" type="center" %}
 
 ## Title
 
 Body
 
-![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
