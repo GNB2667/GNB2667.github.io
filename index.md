@@ -10,6 +10,8 @@ header:
       url: "/sample/"
 excerpt: " "
 intro:
+- Name: 김형준
+- Department: Department of Robotices
   - excerpt: ""
 ---
 
