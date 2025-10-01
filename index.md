@@ -10,7 +10,11 @@ header:
       url: "/sample/"
 excerpt: ""
 intro:
-  - title: "김형준"
-    excerpt: "Department of Robotices"
+  - excerpt: ""
 ---
 {% include feature_row id="intro" type="center" %}
+
+## Title
+
+Body
+
