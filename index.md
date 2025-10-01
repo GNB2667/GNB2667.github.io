@@ -8,15 +8,9 @@ header:
   actions:
     - label: "Button"
       url: "/sample/"
-excerpt: " "
+excerpt: ""
 intro:
-  - excerpt: ""
+  - title: "김형준"
+    excerpt: "Department of Robotices"
 ---
-
 {% include feature_row id="intro" type="center" %}
-
-## Title
-
-Body
-
-![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
